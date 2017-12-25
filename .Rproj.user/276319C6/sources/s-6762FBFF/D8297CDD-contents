@@ -1,0 +1,13 @@
+
+
+load.packages = function(a){
+  if(!require(a, character.only = TRUE)){
+    install.packages(a)
+    library(a, character.only = TRUE)
+  }
+}
+# list of packages to use: 
+x <- c('marelac', 'gam', 'seacarb', 'tidyverse', 'lubridate', 'signal', 'cowplot', 'WaveletComp')
+
+# load them and fix default theme (thanks, cowplot...): 
+lapply(x, load.packages)
