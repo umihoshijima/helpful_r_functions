@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1514181846212.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EFE1A50A",
+    "lastKnownWriteTime" : 1514181910,
+    "last_content_update" : 1514181910562,
+    "path" : "~/Dropbox/helpful_r_functions_UH/sampleFilt.R",
+    "project_path" : "sampleFilt.R",
+    "properties" : {
+        "cursorPosition" : "14,62",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
