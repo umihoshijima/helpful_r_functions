@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1514181381922.000,
+    "created" : 1514533201907.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "D8297CDD",
+    "hash" : "634960798",
+    "id" : "8CD5DD6F",
     "lastKnownWriteTime" : 1514181758,
-    "last_content_update" : 1514181758144,
+    "last_content_update" : 1514181758,
     "path" : "~/Dropbox/helpful_r_functions_UH/load.packages.R",
     "project_path" : "load.packages.R",
     "properties" : {
@@ -16,7 +16,7 @@
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
-    "relative_order" : 1,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

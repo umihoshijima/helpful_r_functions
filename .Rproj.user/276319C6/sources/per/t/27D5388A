@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1514181846212.000,
+    "created" : 1514350968418.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "EFE1A50A",
+    "hash" : "3262979852",
+    "id" : "27D5388A",
     "lastKnownWriteTime" : 1514181910,
-    "last_content_update" : 1514181910562,
+    "last_content_update" : 1514181910,
     "path" : "~/Dropbox/helpful_r_functions_UH/sampleFilt.R",
     "project_path" : "sampleFilt.R",
     "properties" : {
-        "cursorPosition" : "14,62",
+        "cursorPosition" : "11,15",
         "scrollLine" : "0"
     },
-    "relative_order" : 2,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"

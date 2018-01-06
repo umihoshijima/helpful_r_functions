@@ -2,7 +2,7 @@
 # myPlot = ggplot(data = dat, x = ......
 # then do plotTheme(myPlot)
 # if you want to save the output, you could do: 
-# myPlot = plotTheme(myPlot)
+# myPlot = plotTheme(myPlot). should work! 
 
 #This theme tends to go for larger font sizes and a clear background. 
 
